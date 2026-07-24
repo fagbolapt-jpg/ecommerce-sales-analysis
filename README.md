@@ -44,7 +44,7 @@ ecommerce-sales-analysis/
 
 ## Workflow & Tasks
 
-### Task 1 — Raw Data Assessment (`Task_1_Original_Data.xlsx`)
+### Task 1 Raw Data Assessment (`Task_1_Original_Data.xlsx`)
 
 The original dataset contained several quality issues that needed to be addressed before analysis:
 
@@ -55,7 +55,7 @@ The original dataset contained several quality issues that needed to be addresse
 
 ---
 
-### Task 2 — Data Cleaning & Transformation (`Task_2_Cleaned_Data.xlsx`)
+### Task 2 Data Cleaning & Transformation (`Task_2_Cleaned_Data.xlsx`)
 
 Cleaned and enriched the dataset in Excel. Key transformations applied:
 
@@ -70,7 +70,7 @@ Cleaned and enriched the dataset in Excel. Key transformations applied:
 
 ---
 
-### Task 3 — SQL Business Analysis (`Task_3_Analysis_Queries.sql`)
+### Task 3  SQL Business Analysis (`Task_3_Analysis_Queries.sql`)
 
 Performed structured business analysis using **MySQL**. Queries are grouped by theme:
 
@@ -110,7 +110,7 @@ Performed structured business analysis using **MySQL**. Queries are grouped by t
 
 ---
 
-### Task 4 — Power BI Dashboard (`Task_4_Dashboard.pbix`)
+### Task 4  Power BI Dashboard (`Task_4_Dashboard.pbix`)
 
 Built an interactive executive dashboard in **Power BI** that visualises the findings from the SQL analysis. The dashboard includes:
 
